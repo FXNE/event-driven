@@ -9,3 +9,9 @@ config/database.yaml
 # large artifacts
 data/**
 models/**
+
+# env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
