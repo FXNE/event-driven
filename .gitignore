@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# local secrets
+config/database.yaml
+.env
+
+# large artifacts
+data/**
+models/**
